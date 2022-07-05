@@ -1,4 +1,4 @@
-console.log("hello");
+//console.log("hello");
 let a = 10;
 if (a > 2) {
     console.log('хоёроос их');
@@ -6,7 +6,7 @@ if (a > 2) {
 else {
     console.log('хоёроос бага');
 }
-document.write(a);
+//document.write(a);
 
 anychart.onDocumentLoad(function () {
         // create an instance of a pie chart
